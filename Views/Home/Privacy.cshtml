@@ -1,0 +1,16 @@
+﻿@using WxPayLib.Model
+@{
+    Layout = null;
+    ViewData["Title"] = "受权页";
+
+    var webdata = ViewBag.userinfo as WxUserInfo;
+}
+
+<div class="text-center">
+    <h1 class="display-4">用户信息</h1>
+    <p><img src='@webdata.headimgurl' style="width:auto; height:auto" /></p>
+    <p>Openid:@webdata.openid</p>
+    <p>用户妮称：@webdata.nickname</p>
+    <p>性别:@(webdata.sex == 1 ? "男" : "女")</p>
+    <p>城市:@webdata.city</p>
+</div>

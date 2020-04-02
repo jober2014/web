@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.TagHelpers.input.cache
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.TagHelpers.output.cache
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.dll
+C:\Users\Administrator\Source\Repos\ConsoleTest\WxWebCore\obj\Debug\netcoreapp3.0\WxWebCore.pdb
